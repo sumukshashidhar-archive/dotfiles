@@ -1,0 +1,13 @@
+set number
+set ruler
+colorscheme gruvbox
+set bg=dark
+syntax on
+set t_Co=256
+set hlsearch
+set history=1000
+set undolevels=1000
+set noswapfile
+set tabstop=2
+set shiftwidth=2
+set ai
