@@ -26,3 +26,4 @@ set incsearch
 set laststatus=2
 highlight ColorColumn ctermbg=0 guibg=lighgrey
 autocmd filetype python nnoremap <F4> :w <bar> exec '!python3 '.shellescape('%')<CR>
+noremap <F5> "+y
